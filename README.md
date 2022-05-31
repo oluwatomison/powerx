@@ -15,3 +15,7 @@ You will also see any lint or type errors in the console.
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+###
+
+Persist the data using redux
